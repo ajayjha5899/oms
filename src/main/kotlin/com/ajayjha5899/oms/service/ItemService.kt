@@ -1,4 +1,4 @@
-package com.ajayjha5899.oms.service.impl
+package com.ajayjha5899.oms.service
 
 import com.ajayjha5899.oms.dto.CreateItemDTO
 import com.ajayjha5899.oms.dto.ResponseDTO

@@ -3,7 +3,7 @@ package com.ajayjha5899.oms.controller
 import com.ajayjha5899.oms.dto.CreateItemDTO
 import com.ajayjha5899.oms.dto.ResponseDTO
 import com.ajayjha5899.oms.exception.controller.ExceptionController
-import com.ajayjha5899.oms.service.impl.ItemService
+import com.ajayjha5899.oms.service.ItemService
 import com.ajayjha5899.oms.utils.Constants
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
