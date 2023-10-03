@@ -1,4 +1,5 @@
 package com.ajayjha5899.oms.exception
 
-class BadRequestException(msg: String?): RuntimeException(msg) {
-}
+class BadRequestException(msg: String?): RuntimeException(msg)
+
+class NullNotAllowedException(msg: String?): RuntimeException(msg)

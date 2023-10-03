@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty
 import kotlinx.serialization.Serializable
 
 @Serializable
-data class CreateItemDTO(
+data class CreateItemRequestDTO(
     @field:JsonProperty("name")
     val name: String?,
 

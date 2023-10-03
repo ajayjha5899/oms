@@ -1,7 +1,6 @@
 package com.ajayjha5899.oms.utils
 
 import com.ajayjha5899.oms.dto.MetaData
-import com.ajayjha5899.oms.dto.ResponseDTO
 import com.ajayjha5899.oms.enum.ResponseMessageCodeEnums
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter

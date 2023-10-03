@@ -5,4 +5,8 @@ object Constants {
         const val apiV1 = "/api/v1"
         const val item = "/item"
     }
+
+    object Page {
+        const val elementsPerPage = 10L
+    }
 }
